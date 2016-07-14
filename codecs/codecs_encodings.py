@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Demonstrate the representations of values using different encodings.
 """
-#end_pymotw_header
 
 from codecs_to_hex import to_hex
 
