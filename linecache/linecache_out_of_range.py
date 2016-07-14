@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Example use of linecache module.
 """
-#end_pymotw_header
 
 import linecache
 from linecache_data import *

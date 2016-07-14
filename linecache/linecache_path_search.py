@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-# encoding: utf-8
-"""
-"""
-#end_pymotw_header
+# -*- coding: utf-8 -*-
 
 import linecache
 import os
