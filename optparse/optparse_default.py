@@ -1,10 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Using optparse with single-letter options.
 """
-#end_pymotw_header
 
 import optparse
 
