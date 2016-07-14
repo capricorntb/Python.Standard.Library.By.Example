@@ -1,12 +1,9 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
 
 """Retrieving the source code for a module within a zip archive.
 
 """
-#end_pymotw_header
 
 import zipimport
 
