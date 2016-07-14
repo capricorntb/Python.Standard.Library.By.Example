@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Lookup the constant for a named protocol.
 """
-#end_pymotw_header
 
 import socket
 
