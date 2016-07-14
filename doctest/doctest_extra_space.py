@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Whitespace at the end of a line can cause a mis-match.
 """
-#end_pymotw_header
 
 def my_function(a, b):
     """
