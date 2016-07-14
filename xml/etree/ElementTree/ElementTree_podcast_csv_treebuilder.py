@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Convert XML list of podcasts to a CSV file.
 """
-#end_pymotw_header
 
 import csv
 from xml.etree.ElementTree import XMLTreeBuilder
