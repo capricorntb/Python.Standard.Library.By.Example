@@ -1,12 +1,9 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Reading from a memory mapped file.
 
 """
-
-#end_pymotw_header
 
 import mmap
 import contextlib

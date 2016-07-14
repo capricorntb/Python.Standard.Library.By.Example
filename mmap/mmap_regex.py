@@ -1,12 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Searching memory mapped files with regular expressions.
 """
-
-__version__ = "$Id$"
-#end_pymotw_header
 
 import mmap
 import re
