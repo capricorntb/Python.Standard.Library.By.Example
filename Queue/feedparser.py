@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Universal feed parser
 
 Visit http://diveintomark.org/projects/feed_parser/ for the latest version

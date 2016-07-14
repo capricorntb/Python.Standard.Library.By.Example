@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Use several threads to download enclosures from RSS feeds.
 """
-#end_pymotw_header
 
 from Queue import Queue
 from threading import Thread
