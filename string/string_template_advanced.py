@@ -9,9 +9,10 @@ template_text = '''
   Ignored   : %notunderscored
 '''
 
-d = { 'with_underscore':'replaced', 
-      'notunderscored':'not replaced',
-      }
+d = { 
+        'with_underscore':'replaced', 
+        'notunderscored':'not replaced',
+    }
 
 class MyTemplate(string.Template):
     delimiter = '%'
