@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2009 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Logging exceptions to a file, instead of displaying them.
 """
-#end_pymotw_header
 
 import cgitb
 import os
