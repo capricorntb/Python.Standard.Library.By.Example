@@ -1,13 +1,9 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Writing to a memory mapped file using a slice assignment.
 
 """
-
-__version__ = "$Id$"
-#end_pymotw_header
 
 import mmap
 import shutil
