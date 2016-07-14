@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Test if a file is a zipfile.
 """
-#end_pymotw_header
 
 import zipfile
 

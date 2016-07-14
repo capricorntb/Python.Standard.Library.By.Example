@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Writing data to a new archive with writestr().
 """
-#end_pymotw_header
 
 import time
 import zipfile

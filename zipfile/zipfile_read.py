@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Retrieve the contents of an archive member.
 """
-#end_pymotw_header
 
 import zipfile
 

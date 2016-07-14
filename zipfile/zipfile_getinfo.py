@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Retrieve all of the metadata for one member of an archive.
 """
-#end_pymotw_header
 
 import zipfile
 

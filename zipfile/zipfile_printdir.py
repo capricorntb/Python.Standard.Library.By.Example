@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Print the table of contents of a ZIP archive
 """
-#end_pymotw_header
 
 import zipfile
 
