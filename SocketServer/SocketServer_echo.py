@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Echo server example for SocketServer
 """
-#end_pymotw_header
 
 import logging
 import sys
