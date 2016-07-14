@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Adding Python modules to a PyZipFile.
 """
-#end_pymotw_header
 
 import sys
 import zipfile
