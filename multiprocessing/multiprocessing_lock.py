@@ -1,11 +1,9 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Locking via the 'with' statement
 """
-#end_pymotw_header
+
 import multiprocessing
 import sys
 
