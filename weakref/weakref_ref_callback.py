@@ -1,12 +1,9 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Example using weakref.ref to manage a reference to an object
 with a callback.
 """
-#end_pymotw_header
 
 import weakref
 

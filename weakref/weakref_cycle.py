@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Using proxy to prevent cycles.
 """
-#end_pymotw_header
 
 import gc
 from pprint import pprint
