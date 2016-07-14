@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Show the built-in argument actions.
 """
-#end_pymotw_header
 
 import argparse
 
