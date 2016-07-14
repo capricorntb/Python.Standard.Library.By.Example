@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Error handling with character map encodings.
 """
-#end_pymotw_header
 
 import codecs
 from codecs_invertcaps_charmap import encoding_map
