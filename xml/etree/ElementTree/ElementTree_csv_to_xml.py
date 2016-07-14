@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Convert CSV file of podcasts to XML
 """
-#end_pymotw_header
 
 import csv
 from xml.etree.ElementTree import ( Element,
