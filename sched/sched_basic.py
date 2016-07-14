@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Basic sched example
 """
-#end_pymotw_header
 
 import sched
 import time
