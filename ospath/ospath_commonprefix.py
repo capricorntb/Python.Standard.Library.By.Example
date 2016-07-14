@@ -1,13 +1,10 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Find the prefix string common to a group of paths.
 """
 
 __version__ = "$Id$"
-#end_pymotw_header
 
 import os.path
 
