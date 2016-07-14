@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Example of os.walk() implementing a simple recursive directory listing.
-
 """
-
-__module_id__ = "$Id$"
+    Example of os.walk() implementing a simple recursive directory listing.
+"""
 
 import os, sys
 
