@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Fork, then send the child process a signal.
-
 """
-
-__module_id__ = "$Id$"
+    Fork, then send the child process a signal.
+"""
 
 import os
 import signal

@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Using the os module to read and write environment variables.
-
 """
-
-__module_id__ = "$Id$"
+    Using the os module to read and write environment variables.
+"""
 
 import os
 

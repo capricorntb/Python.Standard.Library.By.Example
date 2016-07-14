@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Using the os module to find information about the current process.
-
 """
-
-__module_id__ = "$Id$"
+    Using the os module to find information about the current process.
+"""
 
 import os
 
