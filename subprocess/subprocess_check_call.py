@@ -1,10 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2010 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Checking exit codes from external processes
 """
-#end_pymotw_header
 
 import subprocess
 
