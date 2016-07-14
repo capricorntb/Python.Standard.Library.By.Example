@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Using the os module to find information about the user running the current process.
 """
-#end_pymotw_header
 
 import os
 
