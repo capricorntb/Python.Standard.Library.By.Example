@@ -1,12 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Test an individual filename with a pattern.
 """
-
-#end_pymotw_header
 
 import fnmatch
 import os
