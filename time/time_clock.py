@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """The difference between clock and time.
 """
-#end_pymotw_header
 
 import hashlib
 import time
