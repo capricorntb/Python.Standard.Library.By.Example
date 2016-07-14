@@ -1,8 +1,9 @@
-"""Change permissions on a file
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """
-
-__module_id__ = "$Id$"
+    Change permissions on a file
+"""
 
 import os
 import stat

@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Wait for a worker process.
-
 """
-
-__module_id__ = "$Id$"
+    Wait for a worker process.
+"""
 
 import os
 import sys

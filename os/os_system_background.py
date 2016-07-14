@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Running a command in the background
-
 """
-
-__module_id__ = "$Id$"
+    Running a command in the background
+"""
 
 import os
 import time
