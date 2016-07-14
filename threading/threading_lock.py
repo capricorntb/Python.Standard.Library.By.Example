@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2008 Doug Hellmann All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Controlling access to a resource using a Lock
 """
-#end_pymotw_header
 
 import logging
 import random
