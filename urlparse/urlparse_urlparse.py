@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Parsing URLs
 """
-#end_pymotw_header
 
 from urlparse import urlparse
 
