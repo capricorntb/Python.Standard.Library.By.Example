@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Simple logging to stderr using different levels.
 """
-#end_pymotw_header
 
 import logging
 import sys

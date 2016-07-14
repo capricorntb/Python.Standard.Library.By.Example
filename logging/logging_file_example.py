@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Example use of Python's logging module writing to a file.
 """
-#end_pymotw_header
 
 import logging
 
