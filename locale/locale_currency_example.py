@@ -1,10 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Show the same currency value in different formats for different locales.
 """
-#end_pymotw_header
 
 import locale
 

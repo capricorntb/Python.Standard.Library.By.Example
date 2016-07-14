@@ -1,7 +1,6 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Print a list of locale codes and location names.
 
 This information was cut from the Python 2.5 version of locale.py, and
@@ -9,7 +8,6 @@ reformatted to move the place names out of comments into text which
 could be printed by the script.
 
 """
-#end_pymotw_header
 
 
 locales = [

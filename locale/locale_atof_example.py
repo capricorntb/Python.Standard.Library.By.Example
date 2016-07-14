@@ -1,10 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Converting strings to floating point numbers.
 """
-#end_pymotw_header
 
 import locale
 
