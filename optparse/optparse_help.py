@@ -1,9 +1,10 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Printing help with optparse.  
 
 Call this script with --help on the command line.
 """
-#end_pymotw_header
 
 import optparse
 

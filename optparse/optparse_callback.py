@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Using callbacks for options.
 """
-#end_pymotw_header
 
 import optparse
 
