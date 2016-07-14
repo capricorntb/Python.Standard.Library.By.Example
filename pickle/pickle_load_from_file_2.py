@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Load pickles from a file
 """
-#end_pymotw_header
 
 try:
     import cPickle as pickle
