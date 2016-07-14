@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Pretty-print function for ElementTree
 """
-#end_pymotw_header
 
 from xml.etree import ElementTree
 from xml.dom import minidom
