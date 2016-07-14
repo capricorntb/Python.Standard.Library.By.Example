@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2009 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Control the amount of context by passing a number as arg on command line
 """
-#end_pymotw_header
 
 import cgitb
 import sys

@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2009 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Generate a traceback with more details.
 """
-#end_pymotw_header
 
 import cgitb
 cgitb.enable(format='text')

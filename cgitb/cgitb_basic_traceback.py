@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2009 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Generate a traceback
 """
-#end_pymotw_header
 
 def func2(a, divisor):
     return a / divisor
