@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Example use of popen() varients from os.
-
 """
-
-__module_id__ = "$Id$"
+    Example use of popen() varients from os.
+"""
 
 import os
 

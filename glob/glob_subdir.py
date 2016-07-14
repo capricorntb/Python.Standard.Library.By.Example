@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Listing files in a subdirectory.
-
 """
-
-__module_id__ = "$Id$"
+    Listing files in a subdirectory.
+"""
 
 import glob
 
