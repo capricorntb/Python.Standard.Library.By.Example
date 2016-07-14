@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Using os.system() to run external commands.
-
 """
-
-__module_id__ = "$Id$"
+    Using os.system() to run external commands.
+"""
 
 import os
 

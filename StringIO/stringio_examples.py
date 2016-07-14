@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Simple examples with StringIO module
+"""
+    Simple examples with StringIO module
 
-See http://blog.doughellmann.com/2007/04/pymotw-stringio-and-cstringio.html
+    See http://blog.doughellmann.com/2007/04/pymotw-stringio-and-cstringio.html
 
 """
-
-__module_id__ = "$Id$"
 
 # Find the best implementation available on this platform
 try:

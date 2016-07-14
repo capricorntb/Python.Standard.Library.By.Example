@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Simple example of using os.fork to create a new child process.
-
 """
-
-__module_id__ = "$Id$"
+    Simple example of using os.fork to create a new child process.
+"""
 
 import os
 

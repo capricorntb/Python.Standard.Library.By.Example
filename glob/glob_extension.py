@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Using glob to find files matching a pattern with a filename extension.
-
 """
-
-__module_id__ = "$Id$"
+    Using glob to find files matching a pattern with a filename extension.
+"""
 
 import glob
 
