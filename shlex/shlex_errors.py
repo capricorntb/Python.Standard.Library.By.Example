@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Handling parse errors.
 """
-#end_pymotw_header
 
 import shlex
 
