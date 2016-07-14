@@ -1,14 +1,9 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
 
 """Using the junk filter feature.
 
 """
-
-__version__ = "$Id$"
-#end_pymotw_header
 
 # This example is adapted from the source for difflib.py.
 

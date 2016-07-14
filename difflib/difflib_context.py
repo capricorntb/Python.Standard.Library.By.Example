@@ -1,12 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Context diff example
 """
-
-__version__ = "$Id$"
-#end_pymotw_header
 
 import difflib
 from difflib_data import *
