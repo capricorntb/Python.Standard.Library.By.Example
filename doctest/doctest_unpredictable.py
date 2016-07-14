@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Unpredictable values in the expected results for a test cause failures.
 """
-#end_pymotw_header
 
 class MyClass(object):
     pass

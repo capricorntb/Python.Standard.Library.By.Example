@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Demonstrate how insertion order affects dictonaries and sets.
 """
-#end_pymotw_header
 
 def group_by_length(words):
     """Returns a dictionary grouping words into sets by length.
