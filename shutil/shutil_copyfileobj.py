@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Copying a file
 """
-#end_pymotw_header
 
 from shutil import *
 import os
