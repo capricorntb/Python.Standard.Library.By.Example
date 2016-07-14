@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Joining fragments into absolute URLs
 """
-#end_pymotw_header
 
 from urlparse import urljoin
 

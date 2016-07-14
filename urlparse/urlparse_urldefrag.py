@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Remove fragment portion of URL
 """
-#end_pymotw_header
 
 from urlparse import urldefrag
 
