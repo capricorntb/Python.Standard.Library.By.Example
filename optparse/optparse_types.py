@@ -1,12 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2010 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Type conversions
 """
-
-__module_id__ = "$Id$"
-#end_pymotw_header
 
 import optparse
 
