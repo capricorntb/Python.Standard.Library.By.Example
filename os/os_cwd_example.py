@@ -1,5 +1,8 @@
-"""Using the os module to read and write environment variables.
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
+"""
+    Using the os module to read and write environment variables.
 """
 
 import os
