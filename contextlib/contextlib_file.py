@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Files as context managers.
 """
-#end_pymotw_header
 
 with open('/tmp/pymotw.txt', 'wt') as f:
     f.write('contents go here')
