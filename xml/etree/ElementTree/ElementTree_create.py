@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Creating XML documents
 """
-#end_pymotw_header
 
 from xml.etree.ElementTree import ( Element,
                                     SubElement,
