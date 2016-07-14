@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Opening an existing shelf read-only.
 """
-#end_pymotw_header
 
 import shelve
 from contextlib import closing

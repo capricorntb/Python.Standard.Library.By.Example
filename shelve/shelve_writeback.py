@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Modifying an existing shelf opened with write-back enabled.
 """
-#end_pymotw_header
 
 import shelve
 import pprint

@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Creating a new shelf.
 """
-#end_pymotw_header
 
 import shelve
 from contextlib import closing
