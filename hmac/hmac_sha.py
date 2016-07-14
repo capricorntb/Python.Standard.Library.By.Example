@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Generate an HMAC signature using SHA1.
 """
-#end_pymotw_header
 
 import hmac
 import hashlib
