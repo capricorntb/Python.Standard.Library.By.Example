@@ -1,1 +1,4 @@
 compress-level*
+example_lines.txt.gz
+*.gz
+*.txt.gz
