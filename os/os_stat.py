@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Show stat info for a file.
-
 """
-
-__module_id__ = "$Id$"
+    Show stat info for a file.
+"""
 
 import os
 import sys

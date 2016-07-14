@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Working with symbolic links
-
 """
-
-__module_id__ = "$Id$"
+    Working with symbolic links
+"""
 
 import os
 
