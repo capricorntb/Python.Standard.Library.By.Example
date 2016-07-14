@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Using getmembers()
 """
-#end_pymotw_header
 
 import inspect
 from pprint import pprint

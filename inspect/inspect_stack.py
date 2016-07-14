@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Inspecting the call stack.
 """
-#end_pymotw_header
 
 import inspect
 
