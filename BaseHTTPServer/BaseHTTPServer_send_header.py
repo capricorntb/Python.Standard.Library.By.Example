@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Simple GET handler with BaseHTTPServer
 """
-
-#end_pymotw_header
 
 from BaseHTTPServer import BaseHTTPRequestHandler
 import urlparse
