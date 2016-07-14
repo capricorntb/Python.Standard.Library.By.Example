@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Using os.exec*().
-
 """
-
-__module_id__ = "$Id$"
+    Using os.exec*().
+"""
 
 import os
 

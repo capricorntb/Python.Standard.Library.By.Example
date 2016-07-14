@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Create test data for the glob examples.
-
 """
-
-__module_id__ = "$Id$"
+    Create test data for the glob examples.
+"""
 
 import os
 
