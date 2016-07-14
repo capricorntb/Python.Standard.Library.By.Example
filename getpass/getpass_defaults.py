@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Default use of getpass.
 """
-#end_pymotw_header
 
 import getpass
 
