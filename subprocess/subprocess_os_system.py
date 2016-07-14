@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Replacing os.system with subprocess.
 """
-#end_pymotw_header
 
 import subprocess
 
