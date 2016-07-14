@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Simple POST handler with BaseHTTPServer
 """
-#end_pymotw_header
 
 from BaseHTTPServer import BaseHTTPRequestHandler
 import cgi
