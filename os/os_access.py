@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Check access rights on a file
-
+"""
+    Check access rights on a file
 """
 
 import os
