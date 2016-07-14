@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Check the digests of pickles passed through a stream.
 """
-#end_pymotw_header
 
 import hashlib
 import hmac

@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Copying the permissions from one file to another
 """
-#end_pymotw_header
 
 from shutil import *
 from commands import *
