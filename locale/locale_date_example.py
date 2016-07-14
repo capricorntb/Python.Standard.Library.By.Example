@@ -1,10 +1,8 @@
 #!/usr/bin/env python
-#
-# Copyright 2007 Doug Hellmann.
-#
+# -*- coding: utf-8 -*-
+
 """Print dates in locale-specfic format.
 """
-#end_pymotw_header
 
 import locale
 import time
