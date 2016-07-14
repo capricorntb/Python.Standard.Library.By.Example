@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Example of writing a comma separated value file.
 """
-#end_pymotw_header
 
 import csv
 import sys
