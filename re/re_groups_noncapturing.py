@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Noncapturing groups
 """
-#end_pymotw_header
 
 from re_test_patterns_groups import test_patterns
 
