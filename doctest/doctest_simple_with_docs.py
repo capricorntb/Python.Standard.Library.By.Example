@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Simple example using doctest
 """
-#end_pymotw_header
 
 def my_function(a, b):
     """Returns a * b.

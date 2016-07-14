@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Expecting exceptions
 """
-#end_pymotw_header
 
 def this_raises():
     """This function always raises an exception.
