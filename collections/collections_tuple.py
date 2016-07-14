@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Using a regular tuple
 """
-#end_pymotw_header
 
 bob = ('Bob', 30, 'male')
 print 'Representation:', bob
