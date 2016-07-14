@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# encoding: utf-8
-#
-# Copyright (c) 2010 Doug Hellmann.  All rights reserved.
-#
+# -*- coding: utf-8 -*-
+
 """Byte-order markers
 """
-#end_pymotw_header
 
 import codecs
 from codecs_to_hex import to_hex
