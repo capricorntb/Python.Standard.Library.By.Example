@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """Using getopt with longer option names.
 """
-#end_pymotw_header
 
 import getopt
 

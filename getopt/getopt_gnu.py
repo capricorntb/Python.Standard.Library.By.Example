@@ -1,7 +1,8 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """More complete example which parses and uses the options.
 """
-#end_pymotw_header
 
 import getopt
 import sys
