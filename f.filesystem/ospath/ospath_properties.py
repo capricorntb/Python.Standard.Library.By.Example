@@ -4,8 +4,6 @@
 """Find attributes of a file other than its name.
 """
 
-__version__ = "$Id$"
-
 import os.path
 import time
 
