@@ -10,3 +10,9 @@ print textwrap.fill(dedented_text,
                     subsequent_indent=' ' * 4,
                     width=50,
                     )
+print
+print textwrap.fill(dedented_text,
+                    initial_indent=' ' * 4,
+                    subsequent_indent='',
+                    width=50,
+                    )
